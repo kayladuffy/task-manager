@@ -28,3 +28,13 @@ button {
 #add {
     padding: .5%;
 }
+
+#title {
+    margin-top: 15%;
+    font-size: 3em;
+    text-align: center;
+}
+
+body {
+    background-color: #D6DBDF;
+}
