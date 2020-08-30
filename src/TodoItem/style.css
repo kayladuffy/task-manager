@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 .todoItem {
+    color: #2E4053;
     font-size: 1em;
     text-align: center;
     margin: 10px;
@@ -20,19 +21,24 @@ input {
     margin: 1%;
     padding: 1em;
     width: 15%;
+    border-radius: 4px;
 }
 
 button {
     font-size: 1em;
     color: white;
-    background-color: #2980B9;
+    background-color: #2471A3;
+    font-family: 'Montserrat', sans-serif;
+    border-radius: 4px;
 }
 
 #add {
+    font-family: 'Montserrat', sans-serif;
     padding: .5%;
 }
 
 #title {
+    color: #2E4053;
     font-family: 'Montserrat', sans-serif;
     margin-top: 15%;
     font-size: 4em;
