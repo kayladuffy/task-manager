@@ -1,8 +1,13 @@
 .todoItem {
+    text-align: center;
     margin: 10px;
     cursor: pointer;
 }
 
 .completed {
     text-decoration: line-through;
+}
+
+.addTodoContainer {
+    text-align: center;
 }
