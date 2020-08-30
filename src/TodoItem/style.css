@@ -16,6 +16,7 @@
 }
 
 input {
+    font-family: 'Montserrat', sans-serif;
     margin: 1%;
     padding: 1em;
     width: 15%;
@@ -34,7 +35,7 @@ button {
 #title {
     font-family: 'Montserrat', sans-serif;
     margin-top: 15%;
-    font-size: 3em;
+    font-size: 4em;
     text-align: center;
 }
 
