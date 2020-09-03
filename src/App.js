@@ -1,8 +1,8 @@
 import React from 'react';
+import { BrowserRouter, Switch, Route } from 'react-router-dom';
 import TodoList from './TodoList/todoList';
 import AddTodo from './AddTodo/addTodo';
 import Navbar from '../src/Navbar/Navbar';
-
 import './App.css';
 
 class App extends React.Component {
@@ -16,9 +16,11 @@ class App extends React.Component {
   
   render() {
     return (
+      <BrowserRouter>
         <div className="App">
          <Navbar />
         </div>
+      </BrowserRouter>
     );
   }
 
