@@ -1,6 +1,7 @@
 import React from 'react';
 import TodoList from './TodoList/todoList';
 import AddTodo from './AddTodo/addTodo';
+import Navbar from '../src/Navbar/Navbar';
 
 import './App.css';
 
@@ -13,6 +14,14 @@ class App extends React.Component {
     };
   }
   
+  render() {
+    return (
+        <div className="App">
+         <Navbar />
+        </div>
+    );
+  }
+
   render() {
     return (
       <div>
