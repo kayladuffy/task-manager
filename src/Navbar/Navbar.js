@@ -1,12 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import Contact from './Contact';
+import '../TodoItem/style.css'
 
 const Navbar = () => {
     return(
         <nav className="nav-wrapper grey darken-3">
             <div className="container">
-                <Link to='/' className="brand-logo">React Task Manager</Link>
+                <Link to='/' className="brand-logo left">React Task Manager</Link>
                 <Contact />
             </div>
         </nav>   

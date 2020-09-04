@@ -15,7 +15,7 @@ class AddTodo extends React.Component {
         return(
         <div className='addTodoContainer'>
             <form  onSubmit={(e) => this.submitTodo(e)} >
-                <input id='addTodoInput' onChange={(e) => this.updateInput(e)} type='text'></input>
+                <input className="placeholder" id='addTodoInput' onChange={(e) => this.updateInput(e)} type='text' placeholder="Type new todo here"></input>
                 <button id='add' type='submit'>Add Todo Item</button>
             </form>
         </div>
