@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
 
 .todoItem {
-    color: #2E4053;
+    color: #F4F6F6;
     font-size: 1em;
     text-align: center;
     margin: 10px;
@@ -14,14 +14,23 @@
 
 .addTodoContainer {
     text-align: center;
+    margin-top: 15%;
+}
+
+.placeholder {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: black;
 }
 
 input {
     font-family: 'Montserrat', sans-serif;
+    color: #2E4053;
     margin: 1%;
     padding: 1em;
     width: 15%;
     border-radius: 4px;
+
 }
 
 button {
@@ -47,5 +56,12 @@ button {
 
 body {
     font-family: 'Montserrat', sans-serif;
-    background-color: #D6DBDF;
+    background-color: #34495E;
 }
+
+.left {
+    text-align: center;
+    margin-top:10%;
+    margin-right: 25%;
+}
+
