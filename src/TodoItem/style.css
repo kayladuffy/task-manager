@@ -35,14 +35,15 @@ input {
 
 button {
     font-size: 1.10em;
-    color: #1B2631;
-    background-color: #F2F4F4;
+    color: #F2F4F4;
+    background-color: #ec407a;
     font-family: 'Montserrat', sans-serif;
     border-radius: 4px;
 }
 
 #add {
     font-family: 'Montserrat', sans-serif;
+    padding: 3%;
    
 }
 
