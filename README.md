@@ -1,3 +1,20 @@
+Kayla Duffy
+
+This project contains two main pages: Todo List and Contact Form. 
+
+The todo list is the main page and contains a simple entry form that asks for a new todo. Once you've added your todos, you can strike-through them to signify they are complete. On the console, this is also logged and tracked instantaneously with your front-end actions. 
+
+The contact form collects and logs data on the console. 
+
+Technologies: HTML, CSS, JavaScript, JSON, React, React-Router, Redux, React-Redux.
+
+Future Improvment: 
+1. Use Firebase to actually store inputted data. 
+2. Create more pages so that the site is more intuitive and offers other features.
+3. Add the option to view a history and timestamp of past todos. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
