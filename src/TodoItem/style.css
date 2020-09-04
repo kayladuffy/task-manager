@@ -14,7 +14,7 @@
 
 .addTodoContainer {
     text-align: center;
-    margin-top: 15%;
+    margin-top: 5%;
 }
 
 .placeholder {
@@ -59,4 +59,9 @@ body {
 
 #fillout {
     margin-top: 5%;
+}
+
+h1 {
+    text-align: center;
+    color: #F2F4F4;
 }

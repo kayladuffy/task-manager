@@ -1,7 +1,8 @@
 import React from 'react';
 import TodoList from './TodoList/todoList';
 import AddTodo from './AddTodo/addTodo';
-import './App.css';
+import './App.css'
+import './TodoItem/style.css';
 
 
 
