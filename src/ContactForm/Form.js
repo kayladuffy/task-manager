@@ -8,8 +8,8 @@ class Form extends Component {
     }
     render() {
         return (
-            <div id="fillout" className="container">
-                <form onSubmit={this.handleSubmit} className="white">
+            <div className="container">
+                <form id="fillout" onSubmit={this.handleSubmit} className="white">
                     <h5 className="grey-text text-darken-3">Contact Us</h5>
                     <div className="input-field">
                         <label htmlFor="title">First Name</label>
