@@ -13,7 +13,10 @@ Future Improvment:
 2. Create more pages so that the site is more intuitive and offers other features.
 3. Add the option to view a history and timestamp of past todos. 
 
-
+User Stories:
+1. As a stay-at-home parent, I want to add a todo and see it displayed with my other todos, so that I have a full picture of what needs to get done at anytime. 
+2. As a personal assistant, I want my boss to be able to easily add a todo item and check on what other todos are pending, so that they know what I will be working on.
+3. As an event planner, I want to provide a contact form for potential clients to contact me about a possible event and list what tasks I'd need to help them complete, so that I can decide if it is a job I'd like to take on.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
