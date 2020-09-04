@@ -9,8 +9,8 @@ class Form extends Component {
     render() {
         return (
             <div className="container">
-                <form id="fillout" onSubmit={this.handleSubmit} className="white">
-                    <h5 className="grey-text text-darken-3">Contact Us</h5>
+                <form id="fillout" onSubmit={this.handleSubmit}>
+                    <h5 className="grey-text text-lighten-3">Contact Us</h5>
                     <div className="input-field">
                         <label htmlFor="title">First Name</label>
                         <input type="text" id="title" onChange={this.handleChange} />

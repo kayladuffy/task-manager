@@ -35,10 +35,11 @@ input {
 
 button {
     font-size: 1.10em;
-    color: #F2F4F4;
-    background-color: #ec407a;
+    color: #fff;
+    background-color:#26a69a;
     font-family: 'Montserrat', sans-serif;
-    border-radius: 4px;
+    border-radius: 2px;
+    display: inline-block;
 }
 
 #add {
@@ -64,5 +65,5 @@ body {
 
 h1 {
     text-align: center;
-    color: #F2F4F4;
+    color: #fff;
 }
