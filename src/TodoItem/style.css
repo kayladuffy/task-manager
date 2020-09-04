@@ -27,31 +27,23 @@ input {
     font-family: 'Montserrat', sans-serif;
     color: #2E4053;
     margin: 1%;
-    padding: 1em;
+    padding: 5%;
     width: 15%;
     border-radius: 4px;
 
 }
 
 button {
-    font-size: 1em;
-    color: white;
-    background-color: #2471A3;
+    font-size: 1.10em;
+    color: #1B2631;
+    background-color: #F2F4F4;
     font-family: 'Montserrat', sans-serif;
     border-radius: 4px;
 }
 
 #add {
     font-family: 'Montserrat', sans-serif;
-    padding: .5%;
-}
-
-#title {
-    color: #2E4053;
-    font-family: 'Montserrat', sans-serif;
-    margin-top: 15%;
-    font-size: 4em;
-    text-align: center;
+   
 }
 
 body {
@@ -65,3 +57,6 @@ body {
     margin-right: 25%;
 }
 
+#fillout {
+    margin-top: 5%;
+}
