@@ -25,7 +25,7 @@
 
 input {
     font-family: 'Montserrat', sans-serif;
-    color: #2E4053;
+    color: white;
     margin: 1%;
     padding: 5%;
     width: 15%;
@@ -61,9 +61,21 @@ body {
 
 #fillout {
     margin-top: 5%;
+    padding-bottom: 5%;
+    color: white
 }
 
 h1 {
     text-align: center;
     color: #fff;
 }
+
+.input-field {
+    color: white;
+}
+
+textarea {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
